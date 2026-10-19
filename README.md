@@ -63,5 +63,3 @@ This project analyzes retail sales data using Python and presents the results th
 - `retail_sales.ipynb` — Data analysis and exploration
 - `requirements.txt` — Required Python libraries
 
-## Author
-Add your name and GitHub profile here.
