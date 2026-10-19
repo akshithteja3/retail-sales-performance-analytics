@@ -63,3 +63,13 @@ This project analyzes retail sales data using Python and presents the results th
 - `retail_sales.ipynb` — Data analysis and exploration
 - `requirements.txt` — Required Python libraries
 
+## Dashboard Preview
+
+### Sales Overview
+![Sales Overview](images/overview.png)
+
+### Sales Analysis
+![Sales Analysis](images/sales_analysis.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
